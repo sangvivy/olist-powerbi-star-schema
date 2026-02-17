@@ -217,21 +217,32 @@ Reasons for Date Table:
 #  Project Outcomes
 
 ✔ Cleaned and standardized dataset
+
 ✔ Proper data typing applied
+
 ✔ Quality issues resolved
+
 ✔ Star schema implemented
+
 ✔ Relationships validated
+
 ✔ Date table created
+
 ✔ Model ready for reporting and analytics
 
 ---
 
 #  Files Included
 
-* Power BI (.pbix) file
 * Screenshots (Data Profiling, Applied Steps, Model View)
 * Report PDF
 * README.md
+
+# Power BI File
+
+Due to GitHub file size limitations, the .pbix file is not included in this repository.
+
+The project structure, transformations, DAX code, screenshots, and full report are provided
 
 ---
 

@@ -240,7 +240,7 @@ Reasons for Date Table:
 
 # Power BI File
 
-Due to GitHub file size limitations, the .pbix file is not included in this repository.
+ The .pbix file is included in this repository.
 
 The project structure, transformations, DAX code, screenshots, and full report are provided
 
